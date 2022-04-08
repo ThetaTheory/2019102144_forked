@@ -1,4 +1,4 @@
-# 8단
+# 8단!
 
 for a in range(1, 9):
     print(a ,"단\n")
